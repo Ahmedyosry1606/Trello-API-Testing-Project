@@ -1,0 +1,28 @@
+{
+	"id": "7003a745-d0d9-4586-85a9-e41e5ddd0ca9",
+	"name": "Project-3",
+	"values": [
+		{
+			"key": "basic-url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "APIKey",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "APIToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-04-08T01:19:27.948Z",
+	"_postman_exported_using": "Postman/12.4.6"
+}
