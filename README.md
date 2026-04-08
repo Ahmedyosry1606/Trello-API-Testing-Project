@@ -1,6 +1,6 @@
 # 🚀 Trello API Testing Project
 
-A professional **API Testing portfolio project** for entity["company","Trello"] covering **manual API testing, Postman test automation scripts, bug reporting, and end-to-end workflow validation**.
+A professional **API Testing portfolio project** for entity["company","Trello"] covering **manual API testing, Postman test automation scripts, bug reporting, and end-to-end workflow validation**.
 
 This repository demonstrates a real QA mindset through:
 
@@ -128,12 +128,12 @@ This highlights practical QA skills beyond request execution.
 
 # 🛠 Tools & Technologies
 
-* entity["software","Postman"]
+* entity["software","Postman"]
 * JavaScript
 * REST API
 * JSON
 * Excel Test Documentation
-* entity["company","GitHub"]
+* entity["company","GitHub"]
 
 ---
 
